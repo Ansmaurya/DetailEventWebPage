@@ -1,0 +1,40 @@
+/* .card-img-top:hover{
+    background-color: bisque;
+} */
+
+.img-hover-effect:hover {
+    /* Define your hover effect styles here */
+    transform: scale(1.1); /* Example: Scale the image to 110% on hover */
+    transition: transform 0.3s ease; /* Add a smooth transition */
+  }
+.cardtext{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 48px;
+    
+}
+.cardtitleL{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.cardtitleR{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 32px;
+}
+.cardtextD{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+}
+.card-textL{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
+}
+.cardT{
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size: 18px;
+}
+
+.cardTg{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 18px;
+}

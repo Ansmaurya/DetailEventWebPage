@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.landingImage{
+width: 100vw;
+height: 100vh;
+object-fit: cover;
+filter: brightness(0.6);
+position: absolute;
+top:0;
+left: 0;
+z-index: -1;
+}
+.carouselTitle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+.centertext{
+        font-family: 'Barlow Condensed', sans-serif;
+        font-size:80px;
+        color: white;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+}
+#navbarNav{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+/* .header{
+    margin-top:60px ;
+}
+.headerTitiles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lora',serif;
+    color: #444;
+}
+.headerTitileSm{
+    position:absolute;
+    top: 18%;
+    font-size: 20px;
+}
+.headerTitileLg{
+    position: absolute;
+    top: 20%;
+    font-size: 100px;
+}
+.HeaderImg{
+    width: 100vw;
+    height: 100vh;
+} */
